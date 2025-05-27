@@ -1,30 +1,8 @@
 # Task-1-Scan-your-Local-networks-for-open-ports
-## Introduction
-In this project, you will learn how to use Nmap, a powerful network scanning tool, to discover devices and services running on a local network. Network scanning and enumeration are critical skills for ethical hackers, as they help in identifying potential targets and vulnerabilities within a network. By the end of this project, you will be able to perform basic network scans, identify open ports, and gather information about the devices on your network using Kali Linux.
-
-## Pre-requisites
-- Basic understanding of networking concepts (IP addresses, ports, etc.).
-- Familiarity with using the command line interface (CLI).
-- Kali Linux installed on your machine (either natively, on a virtual machine, or as a live boot).
-
-
-## Lab Set-up and Tools
-
-### Tools
-- **Kali Linux**: A Debian-derived Linux distribution designed for digital forensics and penetration testing.
-- **Nmap**: Network exploration tool and security/port scanner (pre-installed on Kali Linux).
-- A local network with multiple devices connected (computers, printers, IoT devices, etc.).
-
-### Installation
-Nmap is pre-installed on Kali Linux. You can verify the installation or update it using the following command:
-```sh
-sudo apt-get update && sudo apt-get install nmap
-```
 
 ## Tasks
 In kali linux terminal
 
-# Task-1-Scan-your-Local-networks-for-open-ports
 ## Introduction
 In this project, you will learn how to use Nmap, a powerful network scanning tool, to discover devices and services running on a local network. Network scanning and enumeration are critical skills for ethical hackers, as they help in identifying potential targets and vulnerabilities within a network. By the end of this project, you will be able to perform basic network scans, identify open ports, and gather information about the devices on your network using Kali Linux.
 
